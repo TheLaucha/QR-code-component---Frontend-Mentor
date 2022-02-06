@@ -23,7 +23,7 @@ Your users should be able to:
 
 ### Links
 
-- Solution URL: [Link](https://www.frontendmentor.io/challenges/qr-code-component-iux_sIO_H/hub/qr-code-component-LKsPXp5gT)
+- Solution URL: [Link](https://www.frontendmentor.io/solutions/qr-code-component-_rxLdCo_y)
 - Live Site URL: [Link](https://thelaucha.github.io/QR-code-component---Frontend-Mentor/)
 
 ## My process
