@@ -1,0 +1,52 @@
+@import "./config";
+
+* {
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+}
+
+body {
+  font-size: 15px;
+  font-family: "Outfit", sans-serif;
+  background-color: $Light-gray;
+  width: 100vw;
+  height: 100vh;
+  display: grid;
+  place-items: center;
+}
+
+.container {
+  width: 300px;
+  height: 450px;
+  background-color: $White;
+  padding: 1rem;
+  border-radius: 1rem;
+  box-shadow: 1px 1px 30px rgba(0, 0, 0, 0.397);
+  text-align: center;
+  display: grid;
+  grid-template-rows: 2fr 1fr;
+
+  .image {
+    img {
+      width: 100%;
+      border-radius: 0.5rem;
+    }
+    margin-bottom: 1rem;
+  }
+
+  .text {
+    display: grid;
+    grid-template-rows: 1fr 1fr;
+
+    h1 {
+      font-size: 1.4rem;
+      color: $Dark-blue;
+    }
+
+    p {
+      color: $Grayish-blue;
+      font-size: 1rem;
+    }
+  }
+}
