@@ -23,7 +23,7 @@ Your users should be able to:
 
 ### Links
 
-- Solution URL: [Link](https://www.frontendmentor.io/challenges/3column-preview-card-component-pH92eAR2-/hub/3column-preview-card-component-3u_PaIVby)
+- Solution URL: [Link](https://www.frontendmentor.io/challenges/qr-code-component-iux_sIO_H/hub/qr-code-component-LKsPXp5gT)
 - Live Site URL: [Link](https://thelaucha.github.io/QR-code-component---Frontend-Mentor/)
 
 ## My process
